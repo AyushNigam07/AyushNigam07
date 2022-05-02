@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushNigam07
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning React Js
+- 🌱 I’m Currently Learning React.Js
 
 
 <!---
